@@ -1,0 +1,20 @@
+{
+  "name": "npm-chromebook",
+  "version": "1.0.0",
+  "description": "learning node-npm on chromebook",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ndought/node-npm-chromebook.git"
+  },
+  "author": "Noah Doughty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ndought/node-npm-chromebook/issues"
+  },
+  "homepage": "https://github.com/ndought/node-npm-chromebook#readme"
+}
