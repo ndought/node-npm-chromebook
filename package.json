@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ndought/node-npm-chromebook/issues"
   },
-  "homepage": "https://github.com/ndought/node-npm-chromebook#readme"
+  "homepage": "https://github.com/ndought/node-npm-chromebook#readme",
+  "dependencies": {
+    "mongodb": "^3.5.9"
+  }
 }
